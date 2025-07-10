@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # 👋 Hi there, I'm Marcus!
 
 Welcome to my GitHub profile! I'm a passionate and driven Computer Science student at Mississippi State University, actively building my career in software development and **full-stack web development**.
@@ -34,4 +31,4 @@ Welcome to my GitHub profile! I'm a passionate and driven Computer Science stude
 Outside of tech, I’m passionate about fitness, gaming. 
 
 _Thanks for visiting my profile! Feel free to check out my repositories and connect!_
--->
+
